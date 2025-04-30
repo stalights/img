@@ -1,0 +1,4 @@
+- head: 함께하는 캐릭터의 상태 출력
+양식: ![](https://raw.githubusercontent.com/stalights/img/refs/heads/main/isolation/j/(HP)/(MP).webp)
+코드: {"이지은":"j","이서은":"s"}
+예시: 현재 이지은과 동행 중, 체력이 7이고 기력이 4일 경우 ![](https://raw.githubusercontent.com/stalights/img/refs/heads/main/isolation/j/7/4.webp) 출력, 캐릭터 두 명과 동시에 진행 중인 경우 두 줄에 걸쳐 두 명의 상태 모두 출력.
